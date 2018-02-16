@@ -2,14 +2,9 @@
 
 using namespace std;
 
-void Print(int x)
-{
-	cout << x << "\n";
-}
-
 int main()
 {
-	Print(42);
+	cout << 42 << "\n";
 
 
 
