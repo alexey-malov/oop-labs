@@ -7,7 +7,13 @@ void Print(int x)
 	cout << x << "\n";
 }
 
-void main()
+int main()
 {
 	Print(42);
+
+
+
+
+
+	return 0;
 }
